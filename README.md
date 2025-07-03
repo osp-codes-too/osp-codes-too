@@ -7,17 +7,14 @@ Currently pursuing Mechanical Engineering at IIT Ropar (Batch of 2027), I’m de
 🛠️ Founder | 💡 Product-focused | 🧠 Strategic Thinker | 🏋️‍♂️ Fitness-Driven <br/>
 I’m building my journey ground-up — not just to participate, but to dominate with clarity, hustle, and ownership.<br/>
 
-What I’m into:<br/>
+**What I’m into:** <br/>
 
-Startup Building & Execution
+-Startup Building & Execution
+-Strategic Thinking & Content Creation
+-Leadership, Operations & Public Speaking
+-Fitness, Discipline & Personal Growth
 
-Strategic Thinking & Content Creation
-
-Leadership, Operations & Public Speaking
-
-Fitness, Discipline & Personal Growth
-
-Let’s connect if you believe in building boldly and thinking long-term.<br/>
+**Let’s connect if you believe in building boldly and thinking long-term.** <br/>
 
 
 **Programming**<br/>
