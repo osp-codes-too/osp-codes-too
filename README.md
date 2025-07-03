@@ -1,35 +1,37 @@
-# 👋 Hi, I'm Omm Shree!
+# 👋 Hi, I'm Omm Shree! – a builder, thinker, and founder.
 
 ## BTech Undergraduate | IIT Ropar <br/>
 Welcome to my GitHub! <br/>
-I'm an aspiring web developer and programmer with a knack for building efficient and innovative solutions. Here’s a little about me: <br/>
-- 🌐 **Web Development Enthusiast:** Skilled in ReactJS and Firebase. I enjoy building interactive, user-friendly applications. <br/>
-- 💻 **Programming Experience:** Proficient in Python and C++, with a solid foundation in algorithms and problem-solving. <br/>
-- 🏏 **Cricket Player**: Representing the IIT Ropar Cricket Team, I balance academics, coding, and sports. <br/><br/>
+Currently pursuing Mechanical Engineering at IIT Ropar (Batch of 2027), I’m deeply driven by real-world impact, discipline, and storytelling. I thrive at the intersection of creativity and execution — whether it’s leading teams, structuring ideas into ventures, or crafting compelling narratives. <br/>
 
-## 🚀 Skills and Technologies <br/>
-**Web Development** <br/>
-- ReactJs
-- NextJs
-- Firebase
-- Flask(python)
-- Docker
+🛠️ Founder | 💡 Product-focused | 🧠 Strategic Thinker | 🏋️‍♂️ Fitness-Driven <br/>
+I’m building my journey ground-up — not just to participate, but to dominate with clarity, hustle, and ownership.<br/>
+
+What I’m into:<br/>
+
+Startup Building & Execution
+
+Strategic Thinking & Content Creation
+
+Leadership, Operations & Public Speaking
+
+Fitness, Discipline & Personal Growth
+
+Let’s connect if you believe in building boldly and thinking long-term.<br/>
+
 
 **Programming**<br/>
 - C++ <br/>
-- Python <br/><br/>
+- Python <br/>
+- SQL <br/><br/>
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/shreshth-shukla-9446a328b)
-- [Instagram](https://www.instagram.com/shreshth.47/)
-- Email: shreshth.shukla474@gmail.com
+- [LinkedIn](https:linkedin.com/in/omm-shree-b9910b1b9/)
+- [Instagram](https:instagram.com/0mm.5hr33/))
+- Email: ommshreeaspires@gmail.com
 
 
 
-<!--
-**Shreshth47/Shreshth47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
