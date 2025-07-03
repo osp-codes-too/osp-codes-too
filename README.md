@@ -23,8 +23,8 @@ I’m building my journey ground-up — not just to participate, but to dominate
 - SQL <br/><br/>
 
 ## Connect with me
-- [LinkedIn](https:linkedin.com/in/omm-shree-b9910b1b9/)
-- [Instagram](https:instagram.com/0mm.5hr33/))
+- [LinkedIn](https://www.linkedin.com/in/omm-shree-b9910b1b9/)
+- [Instagram](https://www.instagram.com/0mm.5hr33/)
 - Email: ommshreeaspires@gmail.com
 
 
