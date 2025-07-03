@@ -9,10 +9,10 @@ I’m building my journey ground-up — not just to participate, but to dominate
 
 **What I’m into:** <br/>
 
--Startup Building & Execution
--Strategic Thinking & Content Creation
--Leadership, Operations & Public Speaking
--Fitness, Discipline & Personal Growth
+-Startup Building & Execution  <br/>
+-Strategic Thinking & Content Creation  <br/>
+-Leadership, Operations & Public Speaking  <br/>
+-Fitness, Discipline & Personal Growth  <br/>
 
 **Let’s connect if you believe in building boldly and thinking long-term.** <br/>
 
